@@ -1,0 +1,12 @@
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.deps.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Repository.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Domain.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\bin\Debug\netstandard2.0\ProjetoUnip.Domain.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csprojAssemblyReference.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csproj.CoreCompileInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.AssemblyInfoInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.AssemblyInfo.cs
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.csproj.CopyComplete
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\projetounip.repository\obj\Debug\netstandard2.0\ProjetoUnip.Repository.pdb

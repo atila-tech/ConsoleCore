@@ -1,0 +1,9 @@
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\bin\Debug\netstandard2.0\ProjetoUnip.Domain.deps.json
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\bin\Debug\netstandard2.0\ProjetoUnip.Domain.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\bin\Debug\netstandard2.0\ProjetoUnip.Domain.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\obj\Debug\netstandard2.0\ProjetoUnip.Domain.csproj.CoreCompileInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\obj\Debug\netstandard2.0\ProjetoUnip.Domain.AssemblyInfoInputs.cache
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\obj\Debug\netstandard2.0\ProjetoUnip.Domain.AssemblyInfo.cs
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\obj\Debug\netstandard2.0\ProjetoUnip.Domain.dll
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\obj\Debug\netstandard2.0\ProjetoUnip.Domain.pdb
+C:\Users\atila.junqueira\Documents\ProjetoUnip\ProjetoUnip.Domain\obj\Debug\netstandard2.0\ProjetoUnip.Domain.csprojAssemblyReference.cache
